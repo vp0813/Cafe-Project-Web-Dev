@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: burlywood;
+}
+
+#h1{
+    padding: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 800;
+    text-decoration: underline;
+}
+
+#burger{
+    padding-left: 16px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#burgerItem{
+    font-size: 24px;
+    padding-left: 20px;
+    font-weight: 550;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#friesItem{
+    font-size: 24px;
+    padding-left: 20px;
+    font-weight: 550;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#pizzaItem{
+    font-size: 24px;
+    padding-left: 20px;
+    font-weight: 550;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#ramenItem{
+    font-size: 24px;
+    padding-left: 20px;
+    font-weight: 550;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#coffeeItem{
+    font-size: 24px;
+    padding-left: 20px;
+    font-weight: 550;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#cakeItem{
+    font-size: 24px;
+    padding-left: 20px;
+    font-weight: 550;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#totalItem{
+    font-size: 24px;
+    padding-left: 20px;
+    font-weight: 550;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#clear{
+    padding: 8px;
+    font-size: 15px;
+    margin-left: 20px;
+    background-color: brown;
+    color: whitesmoke;
+    border-radius: 10px;
+}
+
+#return{
+    padding: 8px;
+    font-size: 15px;
+    margin-left: 20px;
+    background-color: brown;
+    color: whitesmoke;
+    border-radius: 10px;
+    margin-top: 15px;
+}

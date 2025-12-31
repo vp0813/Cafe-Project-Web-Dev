@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-size: cover;
+    background-image: url(cafe.jpg);
+}
+
+#h1{
+    display: block;
+    text-align: center;
+    font-size: 130px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 225px;
+}
+
+#button{
+    display: block;
+    text-align: center;
+    padding-top: 30px;
+}
+
+#butt{
+    padding: 8px;
+    font-size: 18px;
+    background-color: brown;
+    color: whitesmoke;
+    border-radius: 13px;
+}
