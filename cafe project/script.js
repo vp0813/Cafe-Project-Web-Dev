@@ -70,7 +70,7 @@ if (coffeeplus) {
   coffeeplus.onclick = function () {
     coffeeCount++;
     alert(`You have ${coffeeCount} Cold Coffee in your cart !`);
-    localStorage.setItem("Cold Coffee", coffeeCount);
+    localStorage.setItem("coffee", coffeeCount);
   };
 }
 
