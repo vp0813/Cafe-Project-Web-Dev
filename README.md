@@ -28,26 +28,26 @@ Other resources -
 Here are some screenshots of the **Cafe Sugar** Project :
 <br>
 <br>
-<h2>Home Page</h2>
+###Home Page
 <br>
-![Home_Page](https://raw.githubusercontent.com/vp0813/Cafe-Project-Web-Dev/blob/main/cafe%20project/screenshot/home.png)
+![Home_Page](https://github.com/vp0813/Cafe-Project-Web-Dev/blob/main/cafe%20project/screenshot/home.png)
 <br>
 <br>
-<h2>Main Page</h2>
+###Main Page
 <br>
 ![Main_Page](https://github.com/vp0813/Cafe-Project-Web-Dev/blob/main/cafe%20project/screenshot/main.png)
 <br>
 <br>
-<h2>Cart Page</h2>
+###Cart Page
 <br>
 ![Cart_Page](https://github.com/vp0813/Cafe-Project-Web-Dev/blob/main/cafe%20project/screenshot/cart.png)
 <br>
 <br>
-<h2>Alert1</h2>
+###Alert1
 <br>
 ![Alert1](https://github.com/vp0813/Cafe-Project-Web-Dev/blob/main/cafe%20project/screenshot/alert.png)
 <br>
 <br>
-<h2>Alert2</h2>
+###Alert2
 <br>
 ![Alert2](https://github.com/vp0813/Cafe-Project-Web-Dev/blob/main/cafe%20project/screenshot/alert2.png)
