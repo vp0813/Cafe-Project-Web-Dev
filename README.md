@@ -26,13 +26,18 @@ Other resources -
 
 **Screenshots**
 Here are some screenshots of the **Cafe Sugar** Project :
+<br>
 ###Home Page
-![Home Page](screenshot/home.png)
+![Home_Page](screenshot/home.png)
+<br>
 ###Main Page
-![Main Page](screenshot/main.png)
+![Main_Page](screenshot/main.png)
+<br>
 ###Cart Page
-![Cart Page](screenshot/cart.png)
+![Cart_Page](screenshot/cart.png)
+<br>
 ###Alert1
 ![Alert1](screenshot/alert.png)
+<br>
 ###Alert2
 ![Alert2](screenshot/alert1.png)
