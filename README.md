@@ -30,7 +30,7 @@ Here are some screenshots of the **Cafe Sugar** Project :
 <br>
 <h2>Home Page</h2>
 <br>
-![Home_Page](https://github.com/vp0813/Cafe-Project-Web-Dev/blob/main/cafe%20project/screenshot/home.png)
+![Home_Page](https://rawgithubusercontent.com/vp0813/Cafe-Project-Web-Dev/blob/main/cafe%20project/screenshot/home.png)
 <br>
 <br>
 <h2>Main Page</h2>
