@@ -1,6 +1,7 @@
 # Cafe Sugar
 
 A simple and efficient **Cafe Ordering Website** built using **HTML, CSS, and JavaScript.**
+<br>
 This project make's it easy for employees to keep track of customer's food item requirement, track food item quantity, automatic total price calculation so no need to do manual calculation or use calculator, and a clean user-friendly frontend makes it efficient to use.
 
 **Features ⭐ -** 
@@ -13,6 +14,7 @@ This project make's it easy for employees to keep track of customer's food item 
 7. Clean and user friendly frontend
 
 I have made this web development project to enhance my skills in **HTML, CSS, JavaScript**.
+<br>
 I am also looking forward to add more features in future to make it more efficient to use.
 
 **Technologies Used 🛠️ -**
