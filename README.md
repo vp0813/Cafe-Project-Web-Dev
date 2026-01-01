@@ -30,24 +30,29 @@ Here are some screenshots of the **Cafe Sugar** Project :
 <br>
 ###Home Page
 <br>
+<br>
 ![Home_Page](https://github.com/vp0813/Cafe-Project-Web-Dev/blob/main/cafe%20project/screenshot/home.png)
 <br>
 <br>
 ###Main Page
+<br>
 <br>
 ![Main_Page](https://github.com/vp0813/Cafe-Project-Web-Dev/blob/main/cafe%20project/screenshot/main.png)
 <br>
 <br>
 ###Cart Page
 <br>
+<br>
 ![Cart_Page](https://github.com/vp0813/Cafe-Project-Web-Dev/blob/main/cafe%20project/screenshot/cart.png)
 <br>
 <br>
 ###Alert1
 <br>
+<br>
 ![Alert1](https://github.com/vp0813/Cafe-Project-Web-Dev/blob/main/cafe%20project/screenshot/alert.png)
 <br>
 <br>
 ###Alert2
+<br>
 <br>
 ![Alert2](https://github.com/vp0813/Cafe-Project-Web-Dev/blob/main/cafe%20project/screenshot/alert2.png)
