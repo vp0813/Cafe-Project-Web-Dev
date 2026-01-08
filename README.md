@@ -4,7 +4,7 @@ A simple and efficient **Cafe Ordering Website** built using **HTML, CSS, and Ja
 <br>
 This project make's it easy for employees to keep track of customer's food item requirement, track food item quantity, automatic total price calculation so no need to do manual calculation or use calculator, and a clean user-friendly frontend makes it efficient to use.
 
-**Features ⭐ -** 
+## **Features ⭐ -** 
 1. Add & remove food items.
 2. Increment and decrement of food item quantity.
 3. Cart page to view selected items
